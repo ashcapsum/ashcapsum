@@ -1,16 +1,12 @@
 ✨Jelou✨
 
-<!--
-**ashcapsum/ashcapsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔮 Yare Yare dijo Saiki
 - 📌 PFLC 
 - 🎇 Amos por una gelatina de café
 - 🍌 rin rin rin rin rin rin rin, Banana Phone
 - 🌸 anxious
--->![](https://images.cooltext.com/5584582.png)
+-->
+![](https://images.cooltext.com/5584582.png)
 
 | Hora/Día      | Lunes         | Martes        | Miércoles     | Jueves        | Martes        | Viernes       |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
